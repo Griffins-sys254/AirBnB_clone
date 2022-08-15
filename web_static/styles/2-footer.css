@@ -1,12 +1,10 @@
-footer{
-color: #00FF00;
-height: 60px;
-width: 100%;
-text-align: center;
-position: fixed;
-bottom: 0;
-}
-
-footer p{
-vertical-align: middle;
+footer {
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    display: inline-flex;
+    justify-items: center;
+    justify-content: center;
+    bottom: 0;
+    position: fixed;
 }
